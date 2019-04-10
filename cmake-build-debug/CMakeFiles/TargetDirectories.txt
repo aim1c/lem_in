@@ -1,0 +1,6 @@
+C:/Users/root/Documents/lem_in/cmake-build-debug/CMakeFiles/lem_in.dir
+C:/Users/root/Documents/lem_in/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/root/Documents/lem_in/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/root/Documents/lem_in/cmake-build-debug/libft/CMakeFiles/libft.dir
+C:/Users/root/Documents/lem_in/cmake-build-debug/libft/CMakeFiles/edit_cache.dir
+C:/Users/root/Documents/lem_in/cmake-build-debug/libft/CMakeFiles/rebuild_cache.dir
