@@ -6,25 +6,29 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/root/Documents/lem_in/error.h
+/Users/aleksandr/Documents/21/lem_in/ants_validator.c
+lem_in.h
+/Users/aleksandr/Documents/21/lem_in/lem_in.h
+
+/Users/aleksandr/Documents/21/lem_in/error.h
 stdio.h
 -
 
-C:/Users/root/Documents/lem_in/lem_in.h
+/Users/aleksandr/Documents/21/lem_in/lem_in.h
 libft/libft/libft.h
-C:/Users/root/Documents/lem_in/libft/libft/libft.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/libft.h
 error.h
-C:/Users/root/Documents/lem_in/error.h
+/Users/aleksandr/Documents/21/lem_in/error.h
 
-C:/Users/root/Documents/lem_in/libft/libft/ft_printf.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_printf.h
 libft.h
-C:/Users/root/Documents/lem_in/libft/libft/libft.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/libft.h
 stdarg.h
 -
 stdint.h
 -
 
-C:/Users/root/Documents/lem_in/libft/libft/libft.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/libft.h
 string.h
 -
 unistd.h
@@ -34,9 +38,5 @@ stdlib.h
 fcntl.h
 -
 ft_printf.h
-C:/Users/root/Documents/lem_in/libft/libft/ft_printf.h
-
-C:/Users/root/Documents/lem_in/parse_from_file.c
-lem_in.h
-C:/Users/root/Documents/lem_in/lem_in.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_printf.h
 

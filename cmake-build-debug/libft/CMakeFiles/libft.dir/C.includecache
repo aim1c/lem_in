@@ -6,379 +6,379 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/root/Documents/lem_in/libft/libft/ccprint.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ccprint.c
 ft_printf.h
-C:/Users/root/Documents/lem_in/libft/libft/ft_printf.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_printf.h
 
-C:/Users/root/Documents/lem_in/libft/libft/check.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/check.c
 ft_printf.h
-C:/Users/root/Documents/lem_in/libft/libft/ft_printf.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_printf.h
 
-C:/Users/root/Documents/lem_in/libft/libft/color.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/color.c
 ft_printf.h
-C:/Users/root/Documents/lem_in/libft/libft/ft_printf.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_printf.h
 
-C:/Users/root/Documents/lem_in/libft/libft/cprint.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/cprint.c
 ft_printf.h
-C:/Users/root/Documents/lem_in/libft/libft/ft_printf.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_printf.h
 
-C:/Users/root/Documents/lem_in/libft/libft/fprint.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/fprint.c
 ft_printf.h
-C:/Users/root/Documents/lem_in/libft/libft/ft_printf.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_printf.h
 
-C:/Users/root/Documents/lem_in/libft/libft/free_p.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/free_p.c
 ft_printf.h
-C:/Users/root/Documents/lem_in/libft/libft/ft_printf.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_printf.h
 
-C:/Users/root/Documents/lem_in/libft/libft/ft_atoi.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_atoi.c
 libft.h
-C:/Users/root/Documents/lem_in/libft/libft/libft.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/libft.h
 
-C:/Users/root/Documents/lem_in/libft/libft/ft_bigpart.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_bigpart.c
 ft_printf.h
-C:/Users/root/Documents/lem_in/libft/libft/ft_printf.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_printf.h
 
-C:/Users/root/Documents/lem_in/libft/libft/ft_bzero.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_bzero.c
 libft.h
-C:/Users/root/Documents/lem_in/libft/libft/libft.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/libft.h
 
-C:/Users/root/Documents/lem_in/libft/libft/ft_count.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_count.c
 libft.h
-C:/Users/root/Documents/lem_in/libft/libft/libft.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/libft.h
 
-C:/Users/root/Documents/lem_in/libft/libft/ft_isalnum.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_isalnum.c
 libft.h
-C:/Users/root/Documents/lem_in/libft/libft/libft.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/libft.h
 
-C:/Users/root/Documents/lem_in/libft/libft/ft_isalpha.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_isalpha.c
 libft.h
-C:/Users/root/Documents/lem_in/libft/libft/libft.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/libft.h
 
-C:/Users/root/Documents/lem_in/libft/libft/ft_isascii.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_isascii.c
 
-C:/Users/root/Documents/lem_in/libft/libft/ft_isdigit.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_isdigit.c
 libft.h
-C:/Users/root/Documents/lem_in/libft/libft/libft.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/libft.h
 
-C:/Users/root/Documents/lem_in/libft/libft/ft_isprint.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_isprint.c
 libft.h
-C:/Users/root/Documents/lem_in/libft/libft/libft.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/libft.h
 
-C:/Users/root/Documents/lem_in/libft/libft/ft_itoa.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_itoa.c
 stdlib.h
 -
 libft.h
-C:/Users/root/Documents/lem_in/libft/libft/libft.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/libft.h
 
-C:/Users/root/Documents/lem_in/libft/libft/ft_list_pback.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_list_pback.c
 libft.h
-C:/Users/root/Documents/lem_in/libft/libft/libft.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/libft.h
 
-C:/Users/root/Documents/lem_in/libft/libft/ft_list_pfront.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_list_pfront.c
 libft.h
-C:/Users/root/Documents/lem_in/libft/libft/libft.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/libft.h
 
-C:/Users/root/Documents/lem_in/libft/libft/ft_littlesmall.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_littlesmall.c
 ft_printf.h
-C:/Users/root/Documents/lem_in/libft/libft/ft_printf.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_printf.h
 
-C:/Users/root/Documents/lem_in/libft/libft/ft_lstadd.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_lstadd.c
 libft.h
-C:/Users/root/Documents/lem_in/libft/libft/libft.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/libft.h
 
-C:/Users/root/Documents/lem_in/libft/libft/ft_lstdel.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_lstdel.c
 libft.h
-C:/Users/root/Documents/lem_in/libft/libft/libft.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/libft.h
 
-C:/Users/root/Documents/lem_in/libft/libft/ft_lstdelone.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_lstdelone.c
 libft.h
-C:/Users/root/Documents/lem_in/libft/libft/libft.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/libft.h
 
-C:/Users/root/Documents/lem_in/libft/libft/ft_lstiter.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_lstiter.c
 libft.h
-C:/Users/root/Documents/lem_in/libft/libft/libft.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/libft.h
 
-C:/Users/root/Documents/lem_in/libft/libft/ft_lstmap.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_lstmap.c
 libft.h
-C:/Users/root/Documents/lem_in/libft/libft/libft.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/libft.h
 
-C:/Users/root/Documents/lem_in/libft/libft/ft_lstnew.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_lstnew.c
 libft.h
-C:/Users/root/Documents/lem_in/libft/libft/libft.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/libft.h
 
-C:/Users/root/Documents/lem_in/libft/libft/ft_lstsize.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_lstsize.c
 libft.h
-C:/Users/root/Documents/lem_in/libft/libft/libft.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/libft.h
 
-C:/Users/root/Documents/lem_in/libft/libft/ft_memalloc.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_memalloc.c
 libft.h
-C:/Users/root/Documents/lem_in/libft/libft/libft.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/libft.h
 
-C:/Users/root/Documents/lem_in/libft/libft/ft_memccpy.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_memccpy.c
 libft.h
-C:/Users/root/Documents/lem_in/libft/libft/libft.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/libft.h
 
-C:/Users/root/Documents/lem_in/libft/libft/ft_memchr.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_memchr.c
 libft.h
-C:/Users/root/Documents/lem_in/libft/libft/libft.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/libft.h
 
-C:/Users/root/Documents/lem_in/libft/libft/ft_memcmp.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_memcmp.c
 libft.h
-C:/Users/root/Documents/lem_in/libft/libft/libft.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/libft.h
 
-C:/Users/root/Documents/lem_in/libft/libft/ft_memcpy.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_memcpy.c
 libft.h
-C:/Users/root/Documents/lem_in/libft/libft/libft.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/libft.h
 
-C:/Users/root/Documents/lem_in/libft/libft/ft_memdel.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_memdel.c
 stdlib.h
 -
 
-C:/Users/root/Documents/lem_in/libft/libft/ft_memmove.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_memmove.c
 libft.h
-C:/Users/root/Documents/lem_in/libft/libft/libft.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/libft.h
 
-C:/Users/root/Documents/lem_in/libft/libft/ft_memset.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_memset.c
 libft.h
-C:/Users/root/Documents/lem_in/libft/libft/libft.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/libft.h
 
-C:/Users/root/Documents/lem_in/libft/libft/ft_mult.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_mult.c
 ft_printf.h
-C:/Users/root/Documents/lem_in/libft/libft/ft_printf.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_printf.h
 
-C:/Users/root/Documents/lem_in/libft/libft/ft_onespace.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_onespace.c
 libft.h
-C:/Users/root/Documents/lem_in/libft/libft/libft.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/libft.h
 
-C:/Users/root/Documents/lem_in/libft/libft/ft_power.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_power.c
 libft.h
-C:/Users/root/Documents/lem_in/libft/libft/libft.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/libft.h
 
-C:/Users/root/Documents/lem_in/libft/libft/ft_print_bits.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_print_bits.c
 libft.h
-C:/Users/root/Documents/lem_in/libft/libft/libft.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/libft.h
 
-C:/Users/root/Documents/lem_in/libft/libft/ft_print_membit.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_print_membit.c
 libft.h
-C:/Users/root/Documents/lem_in/libft/libft/libft.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/libft.h
 
-C:/Users/root/Documents/lem_in/libft/libft/ft_print_memory.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_print_memory.c
 libft.h
-C:/Users/root/Documents/lem_in/libft/libft/libft.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/libft.h
 
-C:/Users/root/Documents/lem_in/libft/libft/ft_printf.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_printf.c
 ft_printf.h
-C:/Users/root/Documents/lem_in/libft/libft/ft_printf.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_printf.h
 
-C:/Users/root/Documents/lem_in/libft/libft/ft_printf.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_printf.h
 libft.h
-C:/Users/root/Documents/lem_in/libft/libft/libft.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/libft.h
 stdarg.h
 -
 stdint.h
 -
 
-C:/Users/root/Documents/lem_in/libft/libft/ft_putchar.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_putchar.c
 libft.h
-C:/Users/root/Documents/lem_in/libft/libft/libft.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/libft.h
 
-C:/Users/root/Documents/lem_in/libft/libft/ft_putchar_fd.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_putchar_fd.c
 unistd.h
 -
 
-C:/Users/root/Documents/lem_in/libft/libft/ft_putdbl.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_putdbl.c
 ft_printf.h
-C:/Users/root/Documents/lem_in/libft/libft/ft_printf.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_printf.h
 
-C:/Users/root/Documents/lem_in/libft/libft/ft_putendl.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_putendl.c
 libft.h
-C:/Users/root/Documents/lem_in/libft/libft/libft.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/libft.h
 
-C:/Users/root/Documents/lem_in/libft/libft/ft_putendl_fd.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_putendl_fd.c
 libft.h
-C:/Users/root/Documents/lem_in/libft/libft/libft.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/libft.h
 
-C:/Users/root/Documents/lem_in/libft/libft/ft_putldbl.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_putldbl.c
 ft_printf.h
-C:/Users/root/Documents/lem_in/libft/libft/ft_printf.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_printf.h
 
-C:/Users/root/Documents/lem_in/libft/libft/ft_putnbr.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_putnbr.c
 libft.h
-C:/Users/root/Documents/lem_in/libft/libft/libft.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/libft.h
 
-C:/Users/root/Documents/lem_in/libft/libft/ft_putnbr_fd.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_putnbr_fd.c
 libft.h
-C:/Users/root/Documents/lem_in/libft/libft/libft.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/libft.h
 
-C:/Users/root/Documents/lem_in/libft/libft/ft_putstr.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_putstr.c
 libft.h
-C:/Users/root/Documents/lem_in/libft/libft/libft.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/libft.h
 
-C:/Users/root/Documents/lem_in/libft/libft/ft_putstr_fd.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_putstr_fd.c
 libft.h
-C:/Users/root/Documents/lem_in/libft/libft/libft.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/libft.h
 
-C:/Users/root/Documents/lem_in/libft/libft/ft_strcat.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_strcat.c
 libft.h
-C:/Users/root/Documents/lem_in/libft/libft/libft.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/libft.h
 
-C:/Users/root/Documents/lem_in/libft/libft/ft_strchr.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_strchr.c
 libft.h
-C:/Users/root/Documents/lem_in/libft/libft/libft.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/libft.h
 
-C:/Users/root/Documents/lem_in/libft/libft/ft_strclr.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_strclr.c
 libft.h
-C:/Users/root/Documents/lem_in/libft/libft/libft.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/libft.h
 
-C:/Users/root/Documents/lem_in/libft/libft/ft_strcmp.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_strcmp.c
 libft.h
-C:/Users/root/Documents/lem_in/libft/libft/libft.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/libft.h
 
-C:/Users/root/Documents/lem_in/libft/libft/ft_strcpy.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_strcpy.c
 libft.h
-C:/Users/root/Documents/lem_in/libft/libft/libft.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/libft.h
 
-C:/Users/root/Documents/lem_in/libft/libft/ft_strdel.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_strdel.c
 stdlib.h
 -
 
-C:/Users/root/Documents/lem_in/libft/libft/ft_strdup.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_strdup.c
 libft.h
-C:/Users/root/Documents/lem_in/libft/libft/libft.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/libft.h
 
-C:/Users/root/Documents/lem_in/libft/libft/ft_strequ.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_strequ.c
 libft.h
-C:/Users/root/Documents/lem_in/libft/libft/libft.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/libft.h
 
-C:/Users/root/Documents/lem_in/libft/libft/ft_strike.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_strike.c
 ft_printf.h
-C:/Users/root/Documents/lem_in/libft/libft/ft_printf.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_printf.h
 
-C:/Users/root/Documents/lem_in/libft/libft/ft_striter.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_striter.c
 libft.h
-C:/Users/root/Documents/lem_in/libft/libft/libft.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/libft.h
 
-C:/Users/root/Documents/lem_in/libft/libft/ft_striteri.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_striteri.c
 libft.h
-C:/Users/root/Documents/lem_in/libft/libft/libft.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/libft.h
 
-C:/Users/root/Documents/lem_in/libft/libft/ft_strjoin.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_strjoin.c
 stdlib.h
 -
 libft.h
-C:/Users/root/Documents/lem_in/libft/libft/libft.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/libft.h
 
-C:/Users/root/Documents/lem_in/libft/libft/ft_strlcat.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_strlcat.c
 libft.h
-C:/Users/root/Documents/lem_in/libft/libft/libft.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/libft.h
 
-C:/Users/root/Documents/lem_in/libft/libft/ft_strlen.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_strlen.c
 string.h
 -
 
-C:/Users/root/Documents/lem_in/libft/libft/ft_strmap.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_strmap.c
 libft.h
-C:/Users/root/Documents/lem_in/libft/libft/libft.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/libft.h
 
-C:/Users/root/Documents/lem_in/libft/libft/ft_strmapi.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_strmapi.c
 libft.h
-C:/Users/root/Documents/lem_in/libft/libft/libft.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/libft.h
 
-C:/Users/root/Documents/lem_in/libft/libft/ft_strncat.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_strncat.c
 libft.h
-C:/Users/root/Documents/lem_in/libft/libft/libft.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/libft.h
 
-C:/Users/root/Documents/lem_in/libft/libft/ft_strncmp.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_strncmp.c
 libft.h
-C:/Users/root/Documents/lem_in/libft/libft/libft.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/libft.h
 
-C:/Users/root/Documents/lem_in/libft/libft/ft_strncpy.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_strncpy.c
 libft.h
-C:/Users/root/Documents/lem_in/libft/libft/libft.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/libft.h
 
-C:/Users/root/Documents/lem_in/libft/libft/ft_strnequ.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_strnequ.c
 libft.h
-C:/Users/root/Documents/lem_in/libft/libft/libft.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/libft.h
 
-C:/Users/root/Documents/lem_in/libft/libft/ft_strnew.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_strnew.c
 libft.h
-C:/Users/root/Documents/lem_in/libft/libft/libft.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/libft.h
 
-C:/Users/root/Documents/lem_in/libft/libft/ft_strnstr.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_strnstr.c
 libft.h
-C:/Users/root/Documents/lem_in/libft/libft/libft.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/libft.h
 
-C:/Users/root/Documents/lem_in/libft/libft/ft_strrchr.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_strrchr.c
 libft.h
-C:/Users/root/Documents/lem_in/libft/libft/libft.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/libft.h
 
-C:/Users/root/Documents/lem_in/libft/libft/ft_strrev.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_strrev.c
 libft.h
-C:/Users/root/Documents/lem_in/libft/libft/libft.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/libft.h
 
-C:/Users/root/Documents/lem_in/libft/libft/ft_strsplit.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_strsplit.c
 libft.h
-C:/Users/root/Documents/lem_in/libft/libft/libft.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/libft.h
 
-C:/Users/root/Documents/lem_in/libft/libft/ft_strstr.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_strstr.c
 libft.h
-C:/Users/root/Documents/lem_in/libft/libft/libft.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/libft.h
 
-C:/Users/root/Documents/lem_in/libft/libft/ft_strsub.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_strsub.c
 stdlib.h
 -
 libft.h
-C:/Users/root/Documents/lem_in/libft/libft/libft.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/libft.h
 
-C:/Users/root/Documents/lem_in/libft/libft/ft_strtrim.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_strtrim.c
 libft.h
-C:/Users/root/Documents/lem_in/libft/libft/libft.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/libft.h
 
-C:/Users/root/Documents/lem_in/libft/libft/ft_sumstr.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_sumstr.c
 ft_printf.h
-C:/Users/root/Documents/lem_in/libft/libft/ft_printf.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_printf.h
 
-C:/Users/root/Documents/lem_in/libft/libft/ft_supertrim.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_supertrim.c
 libft.h
-C:/Users/root/Documents/lem_in/libft/libft/libft.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/libft.h
 
-C:/Users/root/Documents/lem_in/libft/libft/ft_tolower.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_tolower.c
 libft.h
-C:/Users/root/Documents/lem_in/libft/libft/libft.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/libft.h
 
-C:/Users/root/Documents/lem_in/libft/libft/ft_toupper.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_toupper.c
 libft.h
-C:/Users/root/Documents/lem_in/libft/libft/libft.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/libft.h
 
-C:/Users/root/Documents/lem_in/libft/libft/ft_whitespaces.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_whitespaces.c
 libft.h
-C:/Users/root/Documents/lem_in/libft/libft/libft.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/libft.h
 
-C:/Users/root/Documents/lem_in/libft/libft/ft_wordcount.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_wordcount.c
 libft.h
-C:/Users/root/Documents/lem_in/libft/libft/libft.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/libft.h
 
-C:/Users/root/Documents/lem_in/libft/libft/ft_wordsize.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_wordsize.c
 libft.h
-C:/Users/root/Documents/lem_in/libft/libft/libft.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/libft.h
 
-C:/Users/root/Documents/lem_in/libft/libft/get_next_line.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/get_next_line.c
 libft.h
-C:/Users/root/Documents/lem_in/libft/libft/libft.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/libft.h
 
-C:/Users/root/Documents/lem_in/libft/libft/int_plus1.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/int_plus1.c
 ft_printf.h
-C:/Users/root/Documents/lem_in/libft/libft/ft_printf.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_printf.h
 
-C:/Users/root/Documents/lem_in/libft/libft/int_plus2.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/int_plus2.c
 ft_printf.h
-C:/Users/root/Documents/lem_in/libft/libft/ft_printf.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_printf.h
 
-C:/Users/root/Documents/lem_in/libft/libft/integers.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/integers.c
 ft_printf.h
-C:/Users/root/Documents/lem_in/libft/libft/ft_printf.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_printf.h
 
-C:/Users/root/Documents/lem_in/libft/libft/libft.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/libft.h
 string.h
 -
 unistd.h
@@ -388,37 +388,37 @@ stdlib.h
 fcntl.h
 -
 ft_printf.h
-C:/Users/root/Documents/lem_in/libft/libft/ft_printf.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_printf.h
 
-C:/Users/root/Documents/lem_in/libft/libft/notation.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/notation.c
 ft_printf.h
-C:/Users/root/Documents/lem_in/libft/libft/ft_printf.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_printf.h
 
-C:/Users/root/Documents/lem_in/libft/libft/oprint.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/oprint.c
 ft_printf.h
-C:/Users/root/Documents/lem_in/libft/libft/ft_printf.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_printf.h
 
-C:/Users/root/Documents/lem_in/libft/libft/piskaprint.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/piskaprint.c
 ft_printf.h
-C:/Users/root/Documents/lem_in/libft/libft/ft_printf.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_printf.h
 
-C:/Users/root/Documents/lem_in/libft/libft/pprint.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/pprint.c
 ft_printf.h
-C:/Users/root/Documents/lem_in/libft/libft/ft_printf.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_printf.h
 
-C:/Users/root/Documents/lem_in/libft/libft/string.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/string.c
 ft_printf.h
-C:/Users/root/Documents/lem_in/libft/libft/ft_printf.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_printf.h
 
-C:/Users/root/Documents/lem_in/libft/libft/uprint.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/uprint.c
 ft_printf.h
-C:/Users/root/Documents/lem_in/libft/libft/ft_printf.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_printf.h
 
-C:/Users/root/Documents/lem_in/libft/libft/write.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/write.c
 ft_printf.h
-C:/Users/root/Documents/lem_in/libft/libft/ft_printf.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_printf.h
 
-C:/Users/root/Documents/lem_in/libft/libft/xprint.c
+/Users/aleksandr/Documents/21/lem_in/libft/libft/xprint.c
 ft_printf.h
-C:/Users/root/Documents/lem_in/libft/libft/ft_printf.h
+/Users/aleksandr/Documents/21/lem_in/libft/libft/ft_printf.h
 

@@ -1,3 +1,1 @@
-C:\Users\root\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\191.6183.77\bin\cmake\win\bin\cmake.exe -E remove -f CMakeFiles\lem_in.dir/objects.a
-C:\MINGW\bin\ar.exe cr CMakeFiles\lem_in.dir/objects.a @CMakeFiles\lem_in.dir\objects1.rsp
-C:\MINGW\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\lem_in.dir/objects.a -Wl,--no-whole-archive  -o lem_in.exe -Wl,--out-implib,liblem_in.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\lem_in.dir\linklibs.rsp
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/lem_in.dir/main.c.o CMakeFiles/lem_in.dir/parse_from_file.c.o CMakeFiles/lem_in.dir/error.c.o CMakeFiles/lem_in.dir/ants_validator.c.o  -o lem_in libft/liblibft.a 

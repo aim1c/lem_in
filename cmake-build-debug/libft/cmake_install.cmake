@@ -1,8 +1,8 @@
-# Install script for directory: C:/Users/root/Documents/lem_in/libft
+# Install script for directory: /Users/aleksandr/Documents/21/lem_in/libft
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/lem_in")
+  set(CMAKE_INSTALL_PREFIX "/usr/local")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 

@@ -17,6 +17,11 @@
 # include "libft/libft/libft.h"
 # include "error.h"
 
+# define IGNORE 0
+# define START_ROOM 1
+# define END_ROOM 2
+# define UNKNOW 3
+
 /*
 **-------------------------lists for adjacent rooms-----------------------------
 */
@@ -56,5 +61,6 @@ typedef struct			s_lem_in
 */
 
 int		parse_from_file(t_lem_in *lemin, t_room *room);
+void	ft_parse_errors_ants(t_lem_in *lemin);
 
 #endif

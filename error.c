@@ -15,6 +15,11 @@
 
 void	ft_error(char *code)
 {
-	printf("ERROR: %s\n", code);
+	printf(CRED"ERROR: %s\n"CRESET, code);
 	exit(EXIT_FAILURE);
+}
+
+void	ft_succes(char *code)
+{
+	printf(CGREEN"ANTS VALIDATION DONE\n"CRESET);
 }

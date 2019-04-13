@@ -4,11 +4,12 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "C:/Users/root/Documents/lem_in/error.c" "C:/Users/root/Documents/lem_in/cmake-build-debug/CMakeFiles/lem_in.dir/error.c.obj"
-  "C:/Users/root/Documents/lem_in/main.c" "C:/Users/root/Documents/lem_in/cmake-build-debug/CMakeFiles/lem_in.dir/main.c.obj"
-  "C:/Users/root/Documents/lem_in/parse_from_file.c" "C:/Users/root/Documents/lem_in/cmake-build-debug/CMakeFiles/lem_in.dir/parse_from_file.c.obj"
+  "/Users/aleksandr/Documents/21/lem_in/ants_validator.c" "/Users/aleksandr/Documents/21/lem_in/cmake-build-debug/CMakeFiles/lem_in.dir/ants_validator.c.o"
+  "/Users/aleksandr/Documents/21/lem_in/error.c" "/Users/aleksandr/Documents/21/lem_in/cmake-build-debug/CMakeFiles/lem_in.dir/error.c.o"
+  "/Users/aleksandr/Documents/21/lem_in/main.c" "/Users/aleksandr/Documents/21/lem_in/cmake-build-debug/CMakeFiles/lem_in.dir/main.c.o"
+  "/Users/aleksandr/Documents/21/lem_in/parse_from_file.c" "/Users/aleksandr/Documents/21/lem_in/cmake-build-debug/CMakeFiles/lem_in.dir/parse_from_file.c.o"
   )
-set(CMAKE_C_COMPILER_ID "GNU")
+set(CMAKE_C_COMPILER_ID "Clang")
 
 # The include file search paths:
 set(CMAKE_C_TARGET_INCLUDE_PATH
@@ -17,7 +18,7 @@ set(CMAKE_C_TARGET_INCLUDE_PATH
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
-  "C:/Users/root/Documents/lem_in/cmake-build-debug/libft/CMakeFiles/libft.dir/DependInfo.cmake"
+  "/Users/aleksandr/Documents/21/lem_in/cmake-build-debug/libft/CMakeFiles/libft.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.
