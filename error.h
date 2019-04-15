@@ -22,8 +22,10 @@
 #define CRESET   "\x1b[0m"
 
 # define BAD_ANT_DATA "NO ONE ANT"
+# define ALL_OK "ANTS VALIDATION COMPLETE"
+# define ALL_OK_ROOMS "ROOMS VALIDATION COMPLETE"
 
 void	ft_error(char *code);												//вывод ошибки и выход
-void	ft_succes(char *code);
+void	ft_succes(char *code, int ants);
 
 #endif //LEM_IN_ERROR_H

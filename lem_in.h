@@ -18,9 +18,19 @@
 # include "error.h"
 
 # define IGNORE 0
-# define START_ROOM 1
-# define END_ROOM 2
-# define UNKNOW 3
+# define START -1
+# define END -2
+# define UNKNOW -3
+
+/*
+**-------------------------need to validation rooms and links-------------------
+*/
+
+typedef struct			s_lemin_lists_links
+{
+	struct	s_list		*head_rooms;
+	struct	s_list		*head_links;
+}						t_lemin_links;
 
 /*
 **-------------------------lists for adjacent rooms-----------------------------
@@ -42,7 +52,8 @@ typedef struct			s_room
 	char				*name;
 	int					y_ccrd;
 	int					x_ccrd;
-	t_adcn				*adcn;
+	int					status;
+	t_lemin_links				*adcn;
 }						t_room;
 
 /*
@@ -53,14 +64,17 @@ typedef struct			s_lem_in
 {
 	int					**madcn;		// матрица смежностей;
 	int					ants;			// кол-во муравьев;
-	t_room				room[];
+	int					num_rooms;
+	t_room				*room;
 }						t_lem_in;
 
 /*
 **-------------------------parse from file--------------------------------------
 */
 
-int		parse_from_file(t_lem_in *lemin, t_room *room);
+int		parse_from_file(t_lem_in *lemin, t_lemin_links *lemin_links);
 void	ft_parse_errors_ants(t_lem_in *lemin);
+void	ft_print_rooms_links_list(t_list *head);
+void	ft_prints_all_params_roms(t_lem_in *lemin);
 
 #endif

@@ -441,6 +441,9 @@
 		<Unit filename="/Users/aleksandr/Documents/21/lem_in/parse_from_file.c">
 			<Option target="lem_in"/>
 		</Unit>
+		<Unit filename="/Users/aleksandr/Documents/21/lem_in/prints.c">
+			<Option target="lem_in"/>
+		</Unit>
 		<Unit filename="/Users/aleksandr/Documents/21/lem_in/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

@@ -22,3 +22,9 @@ CMakeFiles/lem_in.dir/parse_from_file.c.o: ../libft/libft/ft_printf.h
 CMakeFiles/lem_in.dir/parse_from_file.c.o: ../libft/libft/libft.h
 CMakeFiles/lem_in.dir/parse_from_file.c.o: ../parse_from_file.c
 
+CMakeFiles/lem_in.dir/prints.c.o: ../error.h
+CMakeFiles/lem_in.dir/prints.c.o: ../lem_in.h
+CMakeFiles/lem_in.dir/prints.c.o: ../libft/libft/ft_printf.h
+CMakeFiles/lem_in.dir/prints.c.o: ../libft/libft/libft.h
+CMakeFiles/lem_in.dir/prints.c.o: ../prints.c
+

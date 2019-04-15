@@ -3,6 +3,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/lem_in.dir/parse_from_file.c.o"
   "CMakeFiles/lem_in.dir/error.c.o"
   "CMakeFiles/lem_in.dir/ants_validator.c.o"
+  "CMakeFiles/lem_in.dir/prints.c.o"
   "lem_in.pdb"
   "lem_in"
 )

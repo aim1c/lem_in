@@ -244,6 +244,33 @@ parse_from_file.c.s:
 	$(MAKE) -f CMakeFiles/lem_in.dir/build.make CMakeFiles/lem_in.dir/parse_from_file.c.s
 .PHONY : parse_from_file.c.s
 
+prints.o: prints.c.o
+
+.PHONY : prints.o
+
+# target to build an object file
+prints.c.o:
+	$(MAKE) -f CMakeFiles/lem_in.dir/build.make CMakeFiles/lem_in.dir/prints.c.o
+.PHONY : prints.c.o
+
+prints.i: prints.c.i
+
+.PHONY : prints.i
+
+# target to preprocess a source file
+prints.c.i:
+	$(MAKE) -f CMakeFiles/lem_in.dir/build.make CMakeFiles/lem_in.dir/prints.c.i
+.PHONY : prints.c.i
+
+prints.s: prints.c.s
+
+.PHONY : prints.s
+
+# target to generate assembly for a file
+prints.c.s:
+	$(MAKE) -f CMakeFiles/lem_in.dir/build.make CMakeFiles/lem_in.dir/prints.c.s
+.PHONY : prints.c.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -266,6 +293,9 @@ help:
 	@echo "... parse_from_file.o"
 	@echo "... parse_from_file.i"
 	@echo "... parse_from_file.s"
+	@echo "... prints.o"
+	@echo "... prints.i"
+	@echo "... prints.s"
 .PHONY : help
 
 

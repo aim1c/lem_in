@@ -8,6 +8,7 @@ set(CMAKE_DEPENDS_CHECK_C
   "/Users/aleksandr/Documents/21/lem_in/error.c" "/Users/aleksandr/Documents/21/lem_in/cmake-build-debug/CMakeFiles/lem_in.dir/error.c.o"
   "/Users/aleksandr/Documents/21/lem_in/main.c" "/Users/aleksandr/Documents/21/lem_in/cmake-build-debug/CMakeFiles/lem_in.dir/main.c.o"
   "/Users/aleksandr/Documents/21/lem_in/parse_from_file.c" "/Users/aleksandr/Documents/21/lem_in/cmake-build-debug/CMakeFiles/lem_in.dir/parse_from_file.c.o"
+  "/Users/aleksandr/Documents/21/lem_in/prints.c" "/Users/aleksandr/Documents/21/lem_in/cmake-build-debug/CMakeFiles/lem_in.dir/prints.c.o"
   )
 set(CMAKE_C_COMPILER_ID "Clang")
 

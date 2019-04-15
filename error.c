@@ -19,7 +19,7 @@ void	ft_error(char *code)
 	exit(EXIT_FAILURE);
 }
 
-void	ft_succes(char *code)
+void	ft_succes(char *code, int ants)
 {
-	printf(CGREEN"ANTS VALIDATION DONE\n"CRESET);
+	printf(CGREEN"%s:%5d\n"CRESET, code, ants);
 }

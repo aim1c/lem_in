@@ -60,7 +60,7 @@ void	ft_parse_errors_ants(t_lem_in *lemin)									//если нет мурав�
 		lemin->ants = ft_parse_double_ants(line);
 		free(line);
 		if (lemin->ants > 0)
-			ft_succes("ANTS VALIDATION");
+			return (ft_succes(ALL_OK, lemin->ants));
 	}
 	if (lemin->ants < 1 && ft_rachl(line))
 		ft_error(BAD_ANT_DATA);

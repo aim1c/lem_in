@@ -6,10 +6,6 @@
 
 #IncludeRegexTransform: 
 
-/Users/aleksandr/Documents/21/lem_in/ants_validator.c
-lem_in.h
-/Users/aleksandr/Documents/21/lem_in/lem_in.h
-
 /Users/aleksandr/Documents/21/lem_in/error.h
 stdio.h
 -
@@ -39,4 +35,8 @@ fcntl.h
 -
 ft_printf.h
 /Users/aleksandr/Documents/21/lem_in/libft/libft/ft_printf.h
+
+/Users/aleksandr/Documents/21/lem_in/parse_from_file.c
+lem_in.h
+/Users/aleksandr/Documents/21/lem_in/lem_in.h
 

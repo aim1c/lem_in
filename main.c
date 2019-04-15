@@ -15,10 +15,11 @@
 int main(void)
 {
 	t_lem_in	lemin;
-	int			num_rooms;
+	t_lemin_links lemin_prs_links;
 
 	ft_bzero(&lemin, sizeof(t_lem_in));
-	num_rooms = parse_from_file(&lemin, lemin.room);
+	ft_bzero(&lemin_prs_links, sizeof(lemin_prs_links));
+	parse_from_file(&lemin, &lemin_prs_links);
 	exit(EXIT_SUCCESS);
     return (0);
 }
