@@ -53,7 +53,8 @@ typedef struct			s_room
 	int					y_ccrd;
 	int					x_ccrd;
 	int					status;
-	t_lemin_links				*adcn;
+	t_lemin_links		*adcn;
+	t_adcn				*lin_to_room;
 }						t_room;
 
 /*

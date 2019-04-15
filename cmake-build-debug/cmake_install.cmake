@@ -1,4 +1,4 @@
-# Install script for directory: /Users/aleksandr/Documents/21/lem_in
+# Install script for directory: /Users/fsnow-be/lem_in
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -34,7 +34,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/Users/aleksandr/Documents/21/lem_in/cmake-build-debug/libft/cmake_install.cmake")
+  include("/Users/fsnow-be/lem_in/cmake-build-debug/libft/cmake_install.cmake")
 
 endif()
 
@@ -46,5 +46,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/aleksandr/Documents/21/lem_in/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/fsnow-be/lem_in/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

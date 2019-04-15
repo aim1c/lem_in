@@ -6,5 +6,5 @@ C_FLAGS = -g
 
 C_DEFINES = 
 
-C_INCLUDES = -I/Users/aleksandr/Documents/21/lem_in/includes 
+C_INCLUDES = -I/Users/fsnow-be/lem_in/includes 
 

@@ -105,40 +105,49 @@ void	ft_finale_parse(t_lem_in *lemin, t_lemin_links *lin_links)
 	}
 }
 
-t_room *ft_find_rm(t_room *rm, const char *nm, int max, int a)
+t_room	*ft_find_rm(t_room *rm, const char *nm, int max, int a)
 {
 	int		i;
-	char	*need_find;
+	char	*find;
+	char	**av;
 
 	i = -1;
-	need_find = ft_strdup(ft_strchr(nm, '-') + 1);
-	printf("%s\n%s\n", nm, need_find);
+	av = ft_strsplit(nm, '-');
+	find = ft_strcmp(av[0], rm[a].name) ? av[0] : av[1];
 	while (++i < max)
 	{
 		if (a == i)
 			i++;
-
+		if (ft_strstr(find, rm[i].name))
+			return (&rm[i]);
 	}
-	ft_strdel(&need_find);
 	return (NULL);
 }
 
 void	ft_finale_parse_links(t_room *room, t_list *links, t_lem_in *lem)
 {
 	t_list			*cur_link;
-	t_lemin_links	*cur_adcn;
+	t_adcn			*cur_adcn;
 	int				i;
 
 	i = -1;
-	cur_link = links;
 	while (++i < lem->num_rooms)
 	{
-		printf("ROOM ID:%d\t", room[i].id);
+		cur_link = links;
+		room[i].lin_to_room = (t_adcn *)malloc(sizeof(t_adcn));
+		cur_adcn = room[i].lin_to_room;
+		cur_adcn->next = NULL;
 		while (cur_link)
 		{
 			if (ft_strstr(cur_link->content, room[i].name))
 			{
-				ft_find_rm(room, cur_link->content, lem->num_rooms, i);
+				cur_adcn->room = ft_find_rm(room, cur_link->content, lem->num_rooms, i);
+				if (!cur_adcn->room)
+					break ;
+				cur_adcn->next = (t_adcn *)malloc(sizeof(t_adcn));
+				cur_adcn = cur_adcn->next;
+				cur_adcn->next = NULL;
+				cur_adcn->room = NULL;
 			}
 			cur_link = cur_link->next;
 		}
@@ -154,6 +163,6 @@ int		parse_from_file(t_lem_in *lemin, t_lemin_links *lemin_links)			//парси
 	ft_parse_room_links(lemin, lemin_links);									//записывает комнаты и связи в отдельные списки lemin_links
 	ft_finale_parse(lemin, lemin_links);										//заносит комнаты и связи в главную структуру (как тебе подавать связи?)
 	ft_finale_parse_links(lemin->room, lemin_links->head_links, lemin);
-	//ft_prints_all_params_roms(lemin);
+	ft_prints_all_params_roms(lemin);
 	return (0);
 }

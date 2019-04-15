@@ -27,6 +27,7 @@ void	ft_print_rooms_links_list(t_list *head)									// проверка на з
 void	ft_prints_all_params_roms(t_lem_in *lemin)
 {
 	char *line = "********************************************************";
+	t_adcn *cur;
 	int i = -1;
 	printf(BLUE"%s\n\t\t START PRINTING ROOMS\n%s\n"CRESET, line, line);
 	while (++i < lemin->num_rooms)
@@ -34,5 +35,13 @@ void	ft_prints_all_params_roms(t_lem_in *lemin)
 		printf(MADJENTA"ROOM ID:%d"CRESET, lemin->room[i].id);
 		printf(GREEN"\tROOM NAME:%s"CRESET, lemin->room[i].name);
 		printf(RED"\tROOM CCORD: [Y->%d X->%d]\n"CRESET, lemin->room[i].y_ccrd, lemin->room[i].x_ccrd);
+		printf("LINKS WITH ROOMS: ");
+		cur = lemin->room[i].lin_to_room;
+		while (cur->room)
+		{
+			printf("%s\t", cur->room->name);
+			cur = cur->next;
+		}
+		printf("\n");
 	}
 }
