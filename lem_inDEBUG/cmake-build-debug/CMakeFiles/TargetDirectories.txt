@@ -1,6 +1,0 @@
-/Users/aleksandr/Documents/lem_in/lem_inDEBUG/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/aleksandr/Documents/lem_in/lem_inDEBUG/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/aleksandr/Documents/lem_in/lem_inDEBUG/cmake-build-debug/CMakeFiles/lem_in.dir
-/Users/aleksandr/Documents/lem_in/lem_inDEBUG/cmake-build-debug/libft/CMakeFiles/rebuild_cache.dir
-/Users/aleksandr/Documents/lem_in/lem_inDEBUG/cmake-build-debug/libft/CMakeFiles/edit_cache.dir
-/Users/aleksandr/Documents/lem_in/lem_inDEBUG/cmake-build-debug/libft/CMakeFiles/libft.dir

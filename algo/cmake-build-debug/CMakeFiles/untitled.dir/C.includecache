@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/aleksandr/CLionProjects/untitled/lem_in.h
+stdio.h
+-
+stdlib.h
+-
+
+/Users/aleksandr/CLionProjects/untitled/main.c
+lem_in.h
+/Users/aleksandr/CLionProjects/untitled/lem_in.h
+
