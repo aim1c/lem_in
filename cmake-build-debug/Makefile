@@ -39,19 +39,19 @@ cmake_force:
 SHELL = /bin/sh
 
 # The CMake executable.
-CMAKE_COMMAND = "/Volumes/Storage/cache/fsnow-be/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/191.6183.77/CLion.app/Contents/bin/cmake/mac/bin/cmake"
+CMAKE_COMMAND = "/Users/aleksandr/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/191.6183.77/CLion.app/Contents/bin/cmake/mac/bin/cmake"
 
 # The command to remove a file.
-RM = "/Volumes/Storage/cache/fsnow-be/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/191.6183.77/CLion.app/Contents/bin/cmake/mac/bin/cmake" -E remove -f
+RM = "/Users/aleksandr/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/191.6183.77/CLion.app/Contents/bin/cmake/mac/bin/cmake" -E remove -f
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/fsnow-be/lem_in
+CMAKE_SOURCE_DIR = /Users/aleksandr/CLionProjects/untitled
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/fsnow-be/lem_in/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/aleksandr/CLionProjects/untitled/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -59,7 +59,7 @@ CMAKE_BINARY_DIR = /Users/fsnow-be/lem_in/cmake-build-debug
 # Special rule for the target rebuild_cache
 rebuild_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake to regenerate build system..."
-	"/Volumes/Storage/cache/fsnow-be/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/191.6183.77/CLion.app/Contents/bin/cmake/mac/bin/cmake" -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
+	"/Users/aleksandr/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/191.6183.77/CLion.app/Contents/bin/cmake/mac/bin/cmake" -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
 .PHONY : rebuild_cache
 
 # Special rule for the target rebuild_cache
@@ -70,7 +70,7 @@ rebuild_cache/fast: rebuild_cache
 # Special rule for the target edit_cache
 edit_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "No interactive CMake dialog available..."
-	"/Volumes/Storage/cache/fsnow-be/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/191.6183.77/CLion.app/Contents/bin/cmake/mac/bin/cmake" -E echo No\ interactive\ CMake\ dialog\ available.
+	"/Users/aleksandr/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/191.6183.77/CLion.app/Contents/bin/cmake/mac/bin/cmake" -E echo No\ interactive\ CMake\ dialog\ available.
 .PHONY : edit_cache
 
 # Special rule for the target edit_cache
@@ -80,9 +80,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/fsnow-be/lem_in/cmake-build-debug/CMakeFiles /Users/fsnow-be/lem_in/cmake-build-debug/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/aleksandr/CLionProjects/untitled/cmake-build-debug/CMakeFiles /Users/aleksandr/CLionProjects/untitled/cmake-build-debug/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/fsnow-be/lem_in/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/aleksandr/CLionProjects/untitled/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -136,59 +136,86 @@ libft/fast:
 	$(MAKE) -f libft/CMakeFiles/libft.dir/build.make libft/CMakeFiles/libft.dir/build
 .PHONY : libft/fast
 
-ants_validator.o: ants_validator.c.o
+algo.o: algo.c.o
 
-.PHONY : ants_validator.o
-
-# target to build an object file
-ants_validator.c.o:
-	$(MAKE) -f CMakeFiles/lem_in.dir/build.make CMakeFiles/lem_in.dir/ants_validator.c.o
-.PHONY : ants_validator.c.o
-
-ants_validator.i: ants_validator.c.i
-
-.PHONY : ants_validator.i
-
-# target to preprocess a source file
-ants_validator.c.i:
-	$(MAKE) -f CMakeFiles/lem_in.dir/build.make CMakeFiles/lem_in.dir/ants_validator.c.i
-.PHONY : ants_validator.c.i
-
-ants_validator.s: ants_validator.c.s
-
-.PHONY : ants_validator.s
-
-# target to generate assembly for a file
-ants_validator.c.s:
-	$(MAKE) -f CMakeFiles/lem_in.dir/build.make CMakeFiles/lem_in.dir/ants_validator.c.s
-.PHONY : ants_validator.c.s
-
-error.o: error.c.o
-
-.PHONY : error.o
+.PHONY : algo.o
 
 # target to build an object file
-error.c.o:
-	$(MAKE) -f CMakeFiles/lem_in.dir/build.make CMakeFiles/lem_in.dir/error.c.o
-.PHONY : error.c.o
+algo.c.o:
+	$(MAKE) -f CMakeFiles/lem_in.dir/build.make CMakeFiles/lem_in.dir/algo.c.o
+.PHONY : algo.c.o
 
-error.i: error.c.i
+algo.i: algo.c.i
 
-.PHONY : error.i
+.PHONY : algo.i
 
 # target to preprocess a source file
-error.c.i:
-	$(MAKE) -f CMakeFiles/lem_in.dir/build.make CMakeFiles/lem_in.dir/error.c.i
-.PHONY : error.c.i
+algo.c.i:
+	$(MAKE) -f CMakeFiles/lem_in.dir/build.make CMakeFiles/lem_in.dir/algo.c.i
+.PHONY : algo.c.i
 
-error.s: error.c.s
+algo.s: algo.c.s
 
-.PHONY : error.s
+.PHONY : algo.s
 
 # target to generate assembly for a file
-error.c.s:
-	$(MAKE) -f CMakeFiles/lem_in.dir/build.make CMakeFiles/lem_in.dir/error.c.s
-.PHONY : error.c.s
+algo.c.s:
+	$(MAKE) -f CMakeFiles/lem_in.dir/build.make CMakeFiles/lem_in.dir/algo.c.s
+.PHONY : algo.c.s
+
+ants.o: ants.c.o
+
+.PHONY : ants.o
+
+# target to build an object file
+ants.c.o:
+	$(MAKE) -f CMakeFiles/lem_in.dir/build.make CMakeFiles/lem_in.dir/ants.c.o
+.PHONY : ants.c.o
+
+ants.i: ants.c.i
+
+.PHONY : ants.i
+
+# target to preprocess a source file
+ants.c.i:
+	$(MAKE) -f CMakeFiles/lem_in.dir/build.make CMakeFiles/lem_in.dir/ants.c.i
+.PHONY : ants.c.i
+
+ants.s: ants.c.s
+
+.PHONY : ants.s
+
+# target to generate assembly for a file
+ants.c.s:
+	$(MAKE) -f CMakeFiles/lem_in.dir/build.make CMakeFiles/lem_in.dir/ants.c.s
+.PHONY : ants.c.s
+
+errors.o: errors.c.o
+
+.PHONY : errors.o
+
+# target to build an object file
+errors.c.o:
+	$(MAKE) -f CMakeFiles/lem_in.dir/build.make CMakeFiles/lem_in.dir/errors.c.o
+.PHONY : errors.c.o
+
+errors.i: errors.c.i
+
+.PHONY : errors.i
+
+# target to preprocess a source file
+errors.c.i:
+	$(MAKE) -f CMakeFiles/lem_in.dir/build.make CMakeFiles/lem_in.dir/errors.c.i
+.PHONY : errors.c.i
+
+errors.s: errors.c.s
+
+.PHONY : errors.s
+
+# target to generate assembly for a file
+errors.c.s:
+	$(MAKE) -f CMakeFiles/lem_in.dir/build.make CMakeFiles/lem_in.dir/errors.c.s
+.PHONY : errors.c.s
 
 main.o: main.c.o
 
@@ -217,59 +244,113 @@ main.c.s:
 	$(MAKE) -f CMakeFiles/lem_in.dir/build.make CMakeFiles/lem_in.dir/main.c.s
 .PHONY : main.c.s
 
-parse_from_file.o: parse_from_file.c.o
+print_way.o: print_way.c.o
 
-.PHONY : parse_from_file.o
-
-# target to build an object file
-parse_from_file.c.o:
-	$(MAKE) -f CMakeFiles/lem_in.dir/build.make CMakeFiles/lem_in.dir/parse_from_file.c.o
-.PHONY : parse_from_file.c.o
-
-parse_from_file.i: parse_from_file.c.i
-
-.PHONY : parse_from_file.i
-
-# target to preprocess a source file
-parse_from_file.c.i:
-	$(MAKE) -f CMakeFiles/lem_in.dir/build.make CMakeFiles/lem_in.dir/parse_from_file.c.i
-.PHONY : parse_from_file.c.i
-
-parse_from_file.s: parse_from_file.c.s
-
-.PHONY : parse_from_file.s
-
-# target to generate assembly for a file
-parse_from_file.c.s:
-	$(MAKE) -f CMakeFiles/lem_in.dir/build.make CMakeFiles/lem_in.dir/parse_from_file.c.s
-.PHONY : parse_from_file.c.s
-
-prints.o: prints.c.o
-
-.PHONY : prints.o
+.PHONY : print_way.o
 
 # target to build an object file
-prints.c.o:
-	$(MAKE) -f CMakeFiles/lem_in.dir/build.make CMakeFiles/lem_in.dir/prints.c.o
-.PHONY : prints.c.o
+print_way.c.o:
+	$(MAKE) -f CMakeFiles/lem_in.dir/build.make CMakeFiles/lem_in.dir/print_way.c.o
+.PHONY : print_way.c.o
 
-prints.i: prints.c.i
+print_way.i: print_way.c.i
 
-.PHONY : prints.i
+.PHONY : print_way.i
 
 # target to preprocess a source file
-prints.c.i:
-	$(MAKE) -f CMakeFiles/lem_in.dir/build.make CMakeFiles/lem_in.dir/prints.c.i
-.PHONY : prints.c.i
+print_way.c.i:
+	$(MAKE) -f CMakeFiles/lem_in.dir/build.make CMakeFiles/lem_in.dir/print_way.c.i
+.PHONY : print_way.c.i
 
-prints.s: prints.c.s
+print_way.s: print_way.c.s
 
-.PHONY : prints.s
+.PHONY : print_way.s
 
 # target to generate assembly for a file
-prints.c.s:
-	$(MAKE) -f CMakeFiles/lem_in.dir/build.make CMakeFiles/lem_in.dir/prints.c.s
-.PHONY : prints.c.s
+print_way.c.s:
+	$(MAKE) -f CMakeFiles/lem_in.dir/build.make CMakeFiles/lem_in.dir/print_way.c.s
+.PHONY : print_way.c.s
+
+read.o: read.c.o
+
+.PHONY : read.o
+
+# target to build an object file
+read.c.o:
+	$(MAKE) -f CMakeFiles/lem_in.dir/build.make CMakeFiles/lem_in.dir/read.c.o
+.PHONY : read.c.o
+
+read.i: read.c.i
+
+.PHONY : read.i
+
+# target to preprocess a source file
+read.c.i:
+	$(MAKE) -f CMakeFiles/lem_in.dir/build.make CMakeFiles/lem_in.dir/read.c.i
+.PHONY : read.c.i
+
+read.s: read.c.s
+
+.PHONY : read.s
+
+# target to generate assembly for a file
+read.c.s:
+	$(MAKE) -f CMakeFiles/lem_in.dir/build.make CMakeFiles/lem_in.dir/read.c.s
+.PHONY : read.c.s
+
+rooms.o: rooms.c.o
+
+.PHONY : rooms.o
+
+# target to build an object file
+rooms.c.o:
+	$(MAKE) -f CMakeFiles/lem_in.dir/build.make CMakeFiles/lem_in.dir/rooms.c.o
+.PHONY : rooms.c.o
+
+rooms.i: rooms.c.i
+
+.PHONY : rooms.i
+
+# target to preprocess a source file
+rooms.c.i:
+	$(MAKE) -f CMakeFiles/lem_in.dir/build.make CMakeFiles/lem_in.dir/rooms.c.i
+.PHONY : rooms.c.i
+
+rooms.s: rooms.c.s
+
+.PHONY : rooms.s
+
+# target to generate assembly for a file
+rooms.c.s:
+	$(MAKE) -f CMakeFiles/lem_in.dir/build.make CMakeFiles/lem_in.dir/rooms.c.s
+.PHONY : rooms.c.s
+
+vertex.o: vertex.c.o
+
+.PHONY : vertex.o
+
+# target to build an object file
+vertex.c.o:
+	$(MAKE) -f CMakeFiles/lem_in.dir/build.make CMakeFiles/lem_in.dir/vertex.c.o
+.PHONY : vertex.c.o
+
+vertex.i: vertex.c.i
+
+.PHONY : vertex.i
+
+# target to preprocess a source file
+vertex.c.i:
+	$(MAKE) -f CMakeFiles/lem_in.dir/build.make CMakeFiles/lem_in.dir/vertex.c.i
+.PHONY : vertex.c.i
+
+vertex.s: vertex.c.s
+
+.PHONY : vertex.s
+
+# target to generate assembly for a file
+vertex.c.s:
+	$(MAKE) -f CMakeFiles/lem_in.dir/build.make CMakeFiles/lem_in.dir/vertex.c.s
+.PHONY : vertex.c.s
 
 # Help Target
 help:
@@ -281,21 +362,30 @@ help:
 	@echo "... edit_cache"
 	@echo "... lem_in"
 	@echo "... libft"
-	@echo "... ants_validator.o"
-	@echo "... ants_validator.i"
-	@echo "... ants_validator.s"
-	@echo "... error.o"
-	@echo "... error.i"
-	@echo "... error.s"
+	@echo "... algo.o"
+	@echo "... algo.i"
+	@echo "... algo.s"
+	@echo "... ants.o"
+	@echo "... ants.i"
+	@echo "... ants.s"
+	@echo "... errors.o"
+	@echo "... errors.i"
+	@echo "... errors.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
-	@echo "... parse_from_file.o"
-	@echo "... parse_from_file.i"
-	@echo "... parse_from_file.s"
-	@echo "... prints.o"
-	@echo "... prints.i"
-	@echo "... prints.s"
+	@echo "... print_way.o"
+	@echo "... print_way.i"
+	@echo "... print_way.s"
+	@echo "... read.o"
+	@echo "... read.i"
+	@echo "... read.s"
+	@echo "... rooms.o"
+	@echo "... rooms.i"
+	@echo "... rooms.s"
+	@echo "... vertex.o"
+	@echo "... vertex.i"
+	@echo "... vertex.s"
 .PHONY : help
 
 

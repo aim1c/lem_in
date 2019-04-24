@@ -1,4 +1,4 @@
-# Install script for directory: /Users/fsnow-be/lem_in/libft
+# Install script for directory: /Users/aleksandr/CLionProjects/untitled/libft
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

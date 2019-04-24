@@ -1,9 +1,12 @@
 file(REMOVE_RECURSE
   "CMakeFiles/lem_in.dir/main.c.o"
-  "CMakeFiles/lem_in.dir/parse_from_file.c.o"
-  "CMakeFiles/lem_in.dir/error.c.o"
-  "CMakeFiles/lem_in.dir/ants_validator.c.o"
-  "CMakeFiles/lem_in.dir/prints.c.o"
+  "CMakeFiles/lem_in.dir/read.c.o"
+  "CMakeFiles/lem_in.dir/ants.c.o"
+  "CMakeFiles/lem_in.dir/errors.c.o"
+  "CMakeFiles/lem_in.dir/algo.c.o"
+  "CMakeFiles/lem_in.dir/vertex.c.o"
+  "CMakeFiles/lem_in.dir/print_way.c.o"
+  "CMakeFiles/lem_in.dir/rooms.c.o"
   "lem_in.pdb"
   "lem_in"
 )

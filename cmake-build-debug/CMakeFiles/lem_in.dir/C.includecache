@@ -6,25 +6,23 @@
 
 #IncludeRegexTransform: 
 
-/Users/fsnow-be/lem_in/error.h
+/Users/aleksandr/CLionProjects/untitled/lem_in.h
 stdio.h
 -
-
-/Users/fsnow-be/lem_in/lem_in.h
+stdlib.h
+-
 libft/libft/libft.h
-/Users/fsnow-be/lem_in/libft/libft/libft.h
-error.h
-/Users/fsnow-be/lem_in/error.h
+/Users/aleksandr/CLionProjects/untitled/libft/libft/libft.h
 
-/Users/fsnow-be/lem_in/libft/libft/ft_printf.h
+/Users/aleksandr/CLionProjects/untitled/libft/libft/ft_printf.h
 libft.h
-/Users/fsnow-be/lem_in/libft/libft/libft.h
+/Users/aleksandr/CLionProjects/untitled/libft/libft/libft.h
 stdarg.h
 -
 stdint.h
 -
 
-/Users/fsnow-be/lem_in/libft/libft/libft.h
+/Users/aleksandr/CLionProjects/untitled/libft/libft/libft.h
 string.h
 -
 unistd.h
@@ -34,9 +32,9 @@ stdlib.h
 fcntl.h
 -
 ft_printf.h
-/Users/fsnow-be/lem_in/libft/libft/ft_printf.h
+/Users/aleksandr/CLionProjects/untitled/libft/libft/ft_printf.h
 
-/Users/fsnow-be/lem_in/prints.c
+/Users/aleksandr/CLionProjects/untitled/main.c
 lem_in.h
-/Users/fsnow-be/lem_in/lem_in.h
+/Users/aleksandr/CLionProjects/untitled/lem_in.h
 
