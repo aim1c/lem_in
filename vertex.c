@@ -17,6 +17,7 @@ t_vertex	*new_vertex(char *name)
 {
 	t_vertex* vertex;
 	char		**y;
+	int			i;
 
 	y = ft_strsplit(name, ' ');
 	vertex = (t_vertex*)malloc(sizeof(t_vertex));
@@ -24,6 +25,10 @@ t_vertex	*new_vertex(char *name)
 	vertex->list = 0;
 	vertex->y = ft_atoi(y[1]);
 	vertex->x = ft_atoi(y[2]);
+	i = -1;
+	while (++i < 3)
+		free(y[i]);
+	free(y);
 	return (vertex);
 }
 // connect the vertex a to vertex b

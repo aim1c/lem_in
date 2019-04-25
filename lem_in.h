@@ -22,6 +22,7 @@ typedef struct			s_lem_in
 	int					ants;
 	struct	s_vertex	**graph;
 	int					rooms_num;
+	t_list				*ways;
 }						t_lem_in;
 
 typedef struct			s_vertex

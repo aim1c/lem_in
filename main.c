@@ -81,6 +81,11 @@ t_list *dell_all(t_list *links, t_vertex *graph[], int num, t_list *way)
 	return (new);
 }
 
+//void	save_way(t_list *way, int a)
+//{
+//
+//}
+
 int main(int argc, char **argv)
 {
 	int fd = open(argv[1], O_RDONLY);
@@ -102,9 +107,15 @@ int main(int argc, char **argv)
 	{
 		bfs(lemin->graph, lemin->rooms_num);
 		way = pr(lemin->graph[lemin->rooms_num - 1]);
+		//save_way(way, 1);
+		if (ft_lstsize(way) < 3)
+			break ;
 		links_list = dell_all(links_list, lemin->graph, lemin->rooms_num, way);
-		free(way);
 	}
-	printf("\n");
+//	save_way(NULL, 2);
 	return (1);
 }
+
+t_list	*ways = ;
+ways->content = **way;
+ways->next;

@@ -12,15 +12,23 @@
 
 #include "lem_in.h"
 
-t_list *pr(t_vertex *vertex)
-{
-	t_list *a;
-	int cost;
-	int i;
-	t_node *cur;
+//typedef	struct				s_way
+//{
+//	int						id;
+//	struct		s_vertex	*vertex;
+//	struct		s_way		*next;
+//}							t_way;
+//
+//ft_lst_way_new(t_vertex *vertex)
+//{
+//
+//}
 
-	cost = vertex->cost;
-	i = cost;
+t_list	*pr(t_vertex *vertex)
+{
+	t_list	*a;
+	t_node	*cur;
+
 	cur = vertex->list;
 	a = ft_lstnew(vertex->name, ft_strlen(vertex->name) + 1);
 	while (vertex->id != 0)
@@ -34,12 +42,13 @@ t_list *pr(t_vertex *vertex)
 		} else
 			cur = cur->next;
 	}
-	t_list *cur_a;
-	cur_a = a;
-	while (cur_a)
+	t_list *curr;
+	curr = a;
+	while (curr)
 	{
-		printf("%s->", cur_a->content);
-		cur_a = cur_a->next;
+		ways->content[i] =
+		printf("%s->", curr->content);
+		curr  = curr->next;
 	}
 	printf("\n");
 	return (a);
