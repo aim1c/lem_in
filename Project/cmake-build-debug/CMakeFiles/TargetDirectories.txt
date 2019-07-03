@@ -1,6 +1,0 @@
-/Users/fsnow-be/lem_in/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/fsnow-be/lem_in/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/fsnow-be/lem_in/cmake-build-debug/CMakeFiles/lem_in.dir
-/Users/fsnow-be/lem_in/cmake-build-debug/libft/CMakeFiles/rebuild_cache.dir
-/Users/fsnow-be/lem_in/cmake-build-debug/libft/CMakeFiles/edit_cache.dir
-/Users/fsnow-be/lem_in/cmake-build-debug/libft/CMakeFiles/libft.dir
